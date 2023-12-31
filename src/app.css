@@ -1,0 +1,25 @@
+/* .button{
+
+    color:white;
+    background-color: green;
+    font-size: 40px;
+
+}
+
+.title{
+    color:brown;
+    font-weight: bold;
+    
+} */
+
+
+/* @import "../node_modules/bootstrap/dist/css/bootstrap.min.css" */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&family=Roboto:wght@300;400&family=Tilt+Prism&family=Ubuntu:ital,wght@1,700&display=swap');
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+
